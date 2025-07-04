@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yashika00390
-- 👀 I’m interested in contibuting to open-source projects
+- 👋 Hi, I’m Yashika.
+- 👀 I’m interested in contributing to open-source projects
 - 🌱 I’m currently learning react.js, rust and postgresql
 - 💞️ I’m looking to collaborate on lots of interesting projects
 - 📫 I would reply ASAP to any work realted stuff on my email : yashikaverma976@gmail.com 
