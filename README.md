@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yashika.
-- 👀 I’m interested in contributing to open-source projects
-- 🌱 I’m currently learning react.js, rust and postgresql
-- 💞️ I’m looking to collaborate on lots of interesting projects
-- 📫 I would reply ASAP to any work realted stuff on my email : yashikaverma976@gmail.com 
-- ⚡ Fun fact: I know 7 languages : English, Hindi, Punjabi, French, Sanskrit, Urdu and Bengali
+- Hi, I’m Yashika.
+- I’m interested in contributing to open-source projects
+- I’m currently learning react.js, rust and postgresql
+- I’m looking to collaborate on lots of interesting projects
+- I would reply ASAP to any work realted stuff on my email : yashikaverma976@gmail.com 
+- Fun fact: I know 7 languages : English, Hindi, Punjabi, French, Sanskrit, Urdu and Bengali
